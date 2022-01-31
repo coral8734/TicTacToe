@@ -1,0 +1,2 @@
+C:\Users\coral\OneDrive\Escritorio\3enRayasSimple\3enRayasSimple\obj\Debug\3enRayasSimple.csprojAssemblyReference.cache
+C:\Users\coral\OneDrive\Escritorio\3enRayasSimple\3enRayasSimple\obj\Debug\3enRayasSimple.csproj.CoreCompileInputs.cache
